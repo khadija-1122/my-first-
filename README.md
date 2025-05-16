@@ -1,3 +1,3 @@
 # my-first-
-this is my first repository.
-AUTHOR Khadija Saif
+writing it very first time 
+by Khadija Saif
